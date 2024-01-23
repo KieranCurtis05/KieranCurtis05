@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KieranCurtis05
 - 👀 I’m interested in Sidestilt
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Sidestilt
 - 📫 How to reach me https://discord.gg/Zy4rpTRkdT
-- 😄 Pronouns: ...
+- 😄 Pronouns: Le Kækk
 - ⚡ Fun fact: 1989 <3
 
 <!---
